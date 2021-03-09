@@ -1,2 +1,2 @@
 # tdd-haka-quick-start
-Quict start node/javascript environment with JEST to TDD
+A quick start for TDD hakas written with nod/javascript and using jest
